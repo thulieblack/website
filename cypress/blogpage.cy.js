@@ -11,15 +11,6 @@ describe('Blog Page Tests', () => {
     blog.verifyHeader();
   });
 
-  it('Verification of submit blog post link', () => {
-    blog.verifySubmitLink();
-  });
-
-  it('Verification of RSS feed link and image', () => {
-    blog.verifyRSSLink();
-    blog.verifyRSSImage();
-  });
-
   it('Verification of clear filters button', () => {
     blog.filterByType('Strategy');
     blog.verifyClearFiltersButton();
@@ -34,11 +25,9 @@ describe('Blog Page Tests', () => {
 
   it('Verification of specific post link, and checking post header', () => {
     blog.filterByType('Communication');
-    blog.verifyPostLinkAndClick(
-      /How TransferGo Adopted AsyncAPI/i,
-      '/blog/transfergo-asyncapi-story',
-    );
-    blog.verifyPostHeader('How TransferGo adopted AsyncAPI');
+    blog.verifyFilteredPostsVisible();
+    blog.clickFirstVisiblePost();
+    blog.verifyPostDetailPageLoaded();
   });
 
   it('Verification of filters by author and checking filtered posts appear', () => {

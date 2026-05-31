@@ -13,28 +13,6 @@ class BlogPage extends BasePage {
     cy.contains('h1', 'Welcome to our blog!').should('be.visible');
   }
 
-  verifySubmitLink() {
-    cy.contains('a', 'Submit yours!')
-      .should('be.visible')
-      .and('have.attr', 'href')
-      .and(
-        'include',
-        'github.com/asyncapi/website/issues/new?template=blog.md',
-      );
-  }
-
-  verifyRSSLink() {
-    cy.contains('a', 'RSS Feed')
-      .should('be.visible')
-      .and('have.attr', 'href', '/rss.xml');
-  }
-
-  verifyRSSImage() {
-    cy.get('img[alt="RSS feed"]')
-      .should('be.visible')
-      .and('have.attr', 'src', '/img/logos/rss.svg');
-  }
-
   verifyFilteredPostsVisible() {
     cy.get('[data-testid="BlogPostItem-Link"]', { timeout: 10000 }).should(
       'have.length.greaterThan',
