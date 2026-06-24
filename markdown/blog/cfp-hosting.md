@@ -23,7 +23,7 @@ What starts as a workaround often becomes a turning point, especially when growt
 
 ## The Back Story and Need
 
-The idea of actually establishing our own CFP system has been there in the background for a while. Each time we planned a conference, there was a cycle that brought the same friction: limited flexibility and, mostly, a lack of consistency. We found ourselves adjusting to these workflows as long as they just worked, but over time, it became clear that the issue wasn’t the way we did things; we didn’t actually have any ownership.
+The idea of actually establishing our own CFP system has been there in the background for a while. Each time we planned a conference, there was a cycle that brought the same friction: limited flexibility and, mostly, a lack of consistency. The process involved multiple manual steps and frequent back-and-forth with organisers. Reviewer coordination was another pain point, with shared spreadsheets often falling out of sync, making it hard to track feedback or avoid overlap.  We found ourselves adjusting to these workflows as long as they just worked, but over time, it became clear that the issue wasn’t the way we did things; we didn’t actually have any ownership.
 
 In fact, growth had forced our hand and prompted us to think sustainably, because as we grew and expanded our reach, so did the complexity of managing submissions. Relying on external support systems sometimes made it harder to plan ahead, manage shared information, and even create a better experience for our speakers. We needed something that scaled with us, hence we started exploring how other Open Source community conferences managed theirs and if there were any Open Source solutions out there.
 
@@ -32,7 +32,7 @@ In fact, growth had forced our hand and prompted us to think sustainably, becaus
 
 We didn’t want to create another project that needed maintenance, but something that's already established, easy to set up, deploy and Open Source friendly. Based on research, we had three options, so we started [a GitHub discussion](https://github.com/asyncapi/conference-website/issues/949) to gain better insights from the community and determine whether others had more expertise with each platform.
 
-In the end, we opted to go with Pretalx as our conference management software and deploy to DigitalOcean.
+In the end, we opted to use Pretalx as our conference management software and deploy it on DigitalOcean.
 
 
 ## The Architecture
