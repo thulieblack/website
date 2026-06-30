@@ -10,7 +10,7 @@ authors:
     photo: /img/avatars/thulieblack.webp
     link: https://www.linkedin.com/in/v-thulisile-sibanda/
     byline: Community Builder and Open Source Fanatic!
-excerpt: 'AsyncAPI community and project updates for JUne 2026'
+excerpt: 'AsyncAPI community and project updates for June 2026'
 featured: true
 ---
 Now that we are wrapping up Q2 and we’re halfway through the year, it’s a good time to start thinking about taking a holiday break and recharging for a couple of days. Though things are starting to slow down in some community activities, here is a brief summary of what we were up to in June.
@@ -66,7 +66,7 @@ And with that, we’re now accepting proposals for our upcoming conferences in:
 - Online Conference - https://cfp.asyncapi.com/online-2026
 - Paris - https://cfp.asyncapi.com/paris-2026
 
-### AsyncAPI COnference at APIConf Lagos 2026
+### AsyncAPI Conference at APIConf Lagos 2026
 We will be at APIConf Lagos 2026 on the 25th of July. Though we won’t have a track there, we will be community partners and present at the `API Standards Booth`.
 Some of our community members will be present volunteering at the booth; be sure to pass by and say hi. Huge thank you to [APIConf Lagos](https://apiconf.net) for partnering with us and for having us there.
 
