@@ -57,7 +57,7 @@ You are eligible to vote if you are listed as a TSC member in the AsyncAPI commu
 ### Voting Process
 The governance board elections follow a **first-past-the-post voting system**. Here's how it works:
 
-- **Review the candidates** - Take time to learn about each nominee above and consider their vision for AsyncAPI
+- **Review the candidates** - Take time to learn about each nominee below and consider their vision for AsyncAPI
 - **Prepare your ballot** - Since there are 3 positions available, select the 3 candidates you wish to support. Example: 
 ```md
 I vote for:
