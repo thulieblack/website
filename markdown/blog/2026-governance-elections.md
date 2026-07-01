@@ -58,14 +58,14 @@ You are eligible to vote if you are listed as a TSC member in the AsyncAPI commu
 The governance board elections follow a **first-past-the-post voting system**. Here's how it works:
 
 - **Review the candidates** - Take time to learn about each nominee below and consider their vision for AsyncAPI
-- **Prepare your ballot** - Since there are 3 positions available, select the 3 candidates you wish to support. Example: 
+- **Prepare your ballot** - Since there are **3 positions available**, select the **3 candidates** you wish to support. Example: 
 ```md
 I vote for:
 - Candidate Y
 - Candidate R
 - Candidate V
 ```
-- **Submit your vote** - Send an email to info@asyncapi.com with the names of your 3 chosen candidates
+- **Submit your vote** - Send an email to info@asyncapi.com with the names of your **3 chosen candidates**.
 - **Deadline** - Your vote must be received no later than the **20th of July at 23:59 PM UTC**.
 
 ### What You Should Know
