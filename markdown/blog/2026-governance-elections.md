@@ -1,6 +1,6 @@
 ---
 title: "AsyncAPI Governance Board Elections 2026"
-date: 2025-07-06T06:00:00+01:00
+date: 2026-07-06T06:00:00+01:00
 type: Communication
 tags:
   - Project Status
@@ -57,11 +57,12 @@ You are eligible to vote if you are listed as a TSC member in the AsyncAPI commu
 The governance board elections follow a **first-past-the-post voting system**. Here's how it works:
 
 - **Review the candidates** - Take time to learn about each nominee above and consider their vision for AsyncAPI
-- **Prepare your ballot** - Since there are 3 positions available, select the 3 candidates you wish to support. Example ```md
+- **Prepare your ballot** - Since there are 3 positions available, select the 3 candidates you wish to support. Example 
+```md
 I vote for:
-- Candidate A
-- Candidate B
-- Candidate D
+- Candidate Y
+- Candidate R
+- Candidate V
 ```
 - **Submit your vote** - Send an email to info@asyncapi.com with the names of your 3 chosen candidates
 - **Deadline **- Your vote must be received no later than the **20th of July at 23:59 PM UTC**.
