@@ -32,7 +32,7 @@ The Governance Board plays a crucial role in the AsyncAPI Initiative, with respo
 - Conducting transparent governance through regular elections and inclusive decision-making processes.
 
 
-The board consists of **5 members**, each serving a **24-month term**. Elections are held on a staggered schedule to ensure continuity while allowing fresh perspectives to enter the governance structure.
+The board consists of **3 or 5 members**, each serving a **24-month term**. Elections are held on a staggered schedule to ensure continuity while allowing fresh perspectives to enter the governance structure.
 
 Each of these candidates brings unique perspectives, skills, and dedication to the AsyncAPI mission. They represent the diversity of our community across continents, professional backgrounds, and areas of expertise within the project.
 
