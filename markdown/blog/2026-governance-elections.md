@@ -58,7 +58,7 @@ You are eligible to vote if you are listed as a TSC member in the AsyncAPI commu
 The governance board elections follow a **first-past-the-post voting system**. Here's how it works:
 
 - **Review the candidates** - Take time to learn about each nominee above and consider their vision for AsyncAPI
-- **Prepare your ballot** - Since there are 3 positions available, select the 3 candidates you wish to support. Example 
+- **Prepare your ballot** - Since there are 3 positions available, select the 3 candidates you wish to support. Example: 
 ```md
 I vote for:
 - Candidate Y
@@ -66,7 +66,7 @@ I vote for:
 - Candidate V
 ```
 - **Submit your vote** - Send an email to info@asyncapi.com with the names of your 3 chosen candidates
-- **Deadline **- Your vote must be received no later than the **20th of July at 23:59 PM UTC**.
+- **Deadline** - Your vote must be received no later than the **20th of July at 23:59 PM UTC**.
 
 ### What You Should Know
 - **Voting is private** - Your vote will be kept confidential to ensure a fair process and respect all candidates
@@ -84,9 +84,7 @@ For more detailed information about the governance process, see the [AsyncAPI Go
 
 > Candidates are listed in alphabetical order by their first name.
 
-### Candidate A
-
-#### Aayush Saini
+### Candidate A: Aayush Saini
 
 <Profiles profiles={[
 {
@@ -101,7 +99,8 @@ For more detailed information about the governance process, see the [AsyncAPI Go
 - **GitHub**: https://github.com/AayushSaini101
 - **LinkedIn**: https://www.linkedin.com/in/aayush-sainii
 - **Background**: Aayush is a passionate open-source advocate and frequent speaker at major conferences including DevConf India, DevConf Europe, and FOSSASIA. Beyond his work at Red Hat, he's committed to building and nurturing the open-source community, currently leading a community of 400+ open-source enthusiasts globally.
-- **AsyncAPI Impact**: CLI Maintainer & TSC Member\
+- **AsyncAPI Impact**: 
+    - CLI Maintainer & TSC Member
     - Started as a contributor three years ago and rose through the ranks
     - Completed AsyncAPI Mentorship in CLI Project
     - Google Summer of Code Mentor for AsyncAPI
@@ -110,9 +109,7 @@ For more detailed information about the governance process, see the [AsyncAPI Go
 - **Why Aayush is Running**: "My three-year journey with AsyncAPI—from CLI contributor to TSC member—has given me a 360-degree view of our technical challenges and community needs. As a member of the Governance Board, I intend to advocate for streamlined contributor workflows and deeper integration within the broader CNCF ecosystem. I am motivated to ensure that our governance policies evolve at the same pace as our technology, maintaining the balance between rapid innovation and project stability for the enterprises that rely on us."
 
 
-### Candidate B
-
-#### Aishat Yetunde Muibudeen (Maya)
+### Candidate B: Aishat Yetunde Muibudeen (Maya)
 
 <Profiles profiles={[
 {
@@ -134,9 +131,7 @@ For more detailed information about the governance process, see the [AsyncAPI Go
 - **Why Maya is Running**: "I care about how AsyncAPI grows and how decisions are made as the community evolves. From my experience in design and on the Code of Conduct Committee, I've seen how much thoughtful structure and clear communication matter. I want to contribute by being present, asking questions when needed, and helping make sure decisions are made with both the project and the people in mind. For me, it's about helping maintain something that is fair, steady, and welcoming as it grows."
 
 
-### Candidate C
-
-#### Azeez Elegbede (Ace)
+### Candidate C: Azeez Elegbede (Ace)
 
 
 <Profiles profiles={[
@@ -153,15 +148,13 @@ For more detailed information about the governance process, see the [AsyncAPI Go
 - **Background**: Azeez brings valuable perspectives to the AsyncAPI community with his experience and commitment to the initiative. As a member of our diverse global community, Azeez represents the international reach and collaborative spirit that defines AsyncAPI.
 
 
-### Candidate D
-
-#### Prince Rajpoot
+### Candidate D: Prince Rajpoot
 
 <Profiles profiles={[
 {
     name: "Entitled to candidacy as a maintainer",
     avatar: '/img/posts/governance-elections/Prince.webp',
-    link: 'https://github.com/asyncapi/community/blob/MAINTAINERS.yaml#L306'
+    link: 'https://github.com/asyncapi/community/blob/master/MAINTAINERS.yaml#L306'
 }
 ]} />
 
